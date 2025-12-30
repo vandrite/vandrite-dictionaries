@@ -1,0 +1,34 @@
+{
+  "name": "dictionary-th",
+  "version": "0.0.0",
+  "description": "Thai spelling dictionary",
+  "license": "LGPL-2.1",
+  "keywords": [
+    "dictionary",
+    "hunspell",
+    "myspell",
+    "spelling",
+    "th",
+    "thai"
+  ],
+  "repository": "https://github.com/wooorm/dictionaries/tree/main/dictionaries/th",
+  "bugs": "https://github.com/wooorm/dictionaries/issues",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/wooorm"
+  },
+  "author": "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)",
+  "contributors": [
+    "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)",
+    "Thomas Beverley <tom.beverley101@gmail.com>"
+  ],
+  "type": "module",
+  "exports": "./index.js",
+  "files": [
+    "index.aff",
+    "index.d.ts",
+    "index.d.ts.map",
+    "index.dic",
+    "index.js"
+  ]
+}
