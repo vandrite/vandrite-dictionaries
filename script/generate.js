@@ -220,8 +220,8 @@ function process(file, pkg, info) {
     license =
       '[' +
       license +
-      '](https://github.com/wooorm/' +
-      'dictionaries/blob/main/dictionaries/' +
+      '](https://github.com/vandrite/' +
+      'vadrite-dictionaries/blob/main/dictionaries/' +
       info.code +
       '/license)'
   }

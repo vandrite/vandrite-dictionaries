@@ -1,6 +1,8 @@
 <!-- lint disable no-html -->
 
-# dictionaries
+# vadrite-dictionaries
+
+> 🍴 **Fork of [wooorm/dictionaries](https://github.com/wooorm/dictionaries)** with additional languages and cross-platform support.
 
 Collection of normalized and installable [hunspell][] dictionaries.
 
@@ -301,7 +303,7 @@ Please ask in the issues to request that such a dictionary is included here.
 
 ## License
 
-[MIT][file-license] © [Titus Wormer][wooorm]
+[MIT][file-license] © [Titus Wormer][wooorm] & [Vandrite][vandrite]
 
 See `license` files in each dictionary for the licensing of `index.dic` and
 `index.aff` files.
@@ -323,5 +325,7 @@ See `license` files in each dictionary for the licensing of `index.dic` and
 [typescript]: https://www.typescriptlang.org
 
 [wooorm]: https://wooorm.com
+
+[vandrite]: https://vandrite.com
 
 [hunspell]: https://hunspell.github.io

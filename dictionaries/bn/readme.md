@@ -91,7 +91,7 @@ See the [monorepo readme][github-dictionaries] for how to contribute.
 ## License
 
 Dictionary and affix file:
-[GPL-2.0](https://github.com/wooorm/dictionaries/blob/main/dictionaries/bn/license).
+[GPL-2.0](https://github.com/vandrite/vadrite-dictionaries/blob/main/dictionaries/bn/license).
 Rest: [MIT][file-license] © [Titus Wormer][wooorm].
 
 [api-dictionary]: #dictionary

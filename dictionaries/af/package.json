@@ -11,16 +11,17 @@
     "myspell",
     "spelling"
   ],
-  "repository": "https://github.com/wooorm/dictionaries/tree/main/dictionaries/af",
-  "bugs": "https://github.com/wooorm/dictionaries/issues",
+  "repository": "https://github.com/vandrite/vadrite-dictionaries/tree/main/dictionaries/af",
+  "bugs": "https://github.com/vandrite/vadrite-dictionaries/issues",
   "funding": {
     "type": "github",
     "url": "https://github.com/sponsors/wooorm"
   },
-  "author": "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)",
+  "author": "Vandrite <contact@vandrite.com> (https://vandrite.com)",
   "contributors": [
     "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)",
-    "Thomas Beverley <tom.beverley101@gmail.com>"
+    "Thomas Beverley <tom.beverley101@gmail.com>",
+    "Vandrite <contact@vandrite.com> (https://vandrite.com)"
   ],
   "type": "module",
   "exports": "./index.js",
