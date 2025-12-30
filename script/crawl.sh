@@ -989,4 +989,145 @@ generate "cy" "welsh-gb" \
   "hunspell-cy-master/cy_GB.aff" "UTF-8" \
   "LGPL-3.0" "hunspell-cy-master/LICENCE" "UTF-8"
 
+#####################################################################
+# LIBREOFFICE NEW DICTIONARIES ######################################
+#####################################################################
+
+# Afrikaans
+generate "af" "libreoffice" \
+  "dictionaries-master/af_ZA/af_ZA.dic" "UTF-8" \
+  "dictionaries-master/af_ZA/af_ZA.aff" "UTF-8" \
+  "LGPL-3.0" "dictionaries-master/af_ZA/README_af_ZA.txt" "UTF-8"
+# Aragonese
+generate "an" "libreoffice" \
+  "dictionaries-master/an_ES/an_ES.dic" "UTF-8" \
+  "dictionaries-master/an_ES/an_ES.aff" "UTF-8" \
+  "GPL-3.0" "dictionaries-master/an_ES/LICENSES-en.txt" "UTF-8"
+# Arabic
+generate "ar" "libreoffice" \
+  "dictionaries-master/ar/ar.dic" "UTF-8" \
+  "dictionaries-master/ar/ar.aff" "UTF-8" \
+  "GPL-3.0" "dictionaries-master/ar/COPYING.txt" "UTF-8"
+# Assamese
+generate "as" "libreoffice" \
+  "dictionaries-master/as_IN/as_IN.dic" "UTF-8" \
+  "dictionaries-master/as_IN/as_IN.aff" "UTF-8" \
+  "GPL-2.0" "dictionaries-master/as_IN/COPYING" "UTF-8"
+# Belarusian
+generate "be" "libreoffice" \
+  "dictionaries-master/be_BY/be_BY.dic" "UTF-8" \
+  "dictionaries-master/be_BY/be_BY.aff" "UTF-8" \
+  "GPL-3.0" "dictionaries-master/be_BY/LICENSE" "UTF-8"
+# Bengali
+generate "bn" "libreoffice" \
+  "dictionaries-master/bn_BD/bn_BD.dic" "UTF-8" \
+  "dictionaries-master/bn_BD/bn_BD.aff" "UTF-8" \
+  "GPL-2.0" "dictionaries-master/bn_BD/COPYING" "UTF-8"
+# Tibetan
+generate "bo" "libreoffice" \
+  "dictionaries-master/bo/bo.dic" "UTF-8" \
+  "dictionaries-master/bo/bo.aff" "UTF-8" \
+  "GPL-3.0" "dictionaries-master/bo/LICENSE-en.txt" "UTF-8"
+# Bosnian
+generate "bs" "libreoffice" \
+  "dictionaries-master/bs_BA/bs_BA.dic" "UTF-8" \
+  "dictionaries-master/bs_BA/bs_BA.aff" "UTF-8" \
+  "GPL-3.0" "dictionaries-master/bs_BA/registration/LICENSE" "UTF-8"
+# Central Kurdish
+generate "ckb" "libreoffice" \
+  "dictionaries-master/ckb/ckb.dic" "UTF-8" \
+  "dictionaries-master/ckb/ckb.aff" "UTF-8" \
+  "GPL-3.0" "dictionaries-master/ckb/LICENSE.txt" "UTF-8"
+# Gujarati
+generate "gu" "libreoffice" \
+  "dictionaries-master/gu_IN/gu_IN.dic" "UTF-8" \
+  "dictionaries-master/gu_IN/gu_IN.aff" "UTF-8" \
+  "GPL-3.0" "dictionaries-master/gu_IN/COPYING" "UTF-8"
+# Guarani (Paraguayan)
+generate "gug" "libreoffice" \
+  "dictionaries-master/gug/gug.dic" "UTF-8" \
+  "dictionaries-master/gug/gug.aff" "UTF-8" \
+  "GPL-3.0" "dictionaries-master/gug/LICENSE.txt" "UTF-8"
+# Hindi
+generate "hi" "libreoffice" \
+  "dictionaries-master/hi_IN/hi_IN.dic" "UTF-8" \
+  "dictionaries-master/hi_IN/hi_IN.aff" "UTF-8" \
+  "GPL-2.0" "dictionaries-master/hi_IN/COPYING" "UTF-8"
+# Indonesian
+generate "id" "libreoffice" \
+  "dictionaries-master/id/id_ID.dic" "UTF-8" \
+  "dictionaries-master/id/id_ID.aff" "UTF-8" \
+  "GPL-3.0" "dictionaries-master/id/LICENSE-dict" "UTF-8"
+# Italian (was offline, now from LibreOffice)
+generate "it" "libreoffice" \
+  "dictionaries-master/it_IT/it_IT.dic" "UTF-8" \
+  "dictionaries-master/it_IT/it_IT.aff" "UTF-8" \
+  "GPL-3.0" "dictionaries-master/it_IT/README_it_IT.txt" "UTF-8"
+# Kannada
+generate "kn" "libreoffice" \
+  "dictionaries-master/kn_IN/kn_IN.dic" "UTF-8" \
+  "dictionaries-master/kn_IN/kn_IN.aff" "UTF-8" \
+  "GPL-3.0" "dictionaries-master/kn_IN/COPYING" "UTF-8"
+# Kurmanji (Latin script)
+generate "kmr-Latn" "libreoffice" \
+  "dictionaries-master/kmr_Latn/kmr_Latn.dic" "UTF-8" \
+  "dictionaries-master/kmr_Latn/kmr_Latn.aff" "UTF-8" \
+  "GPL-3.0" "dictionaries-master/kmr_Latn/gpl-3.0.txt" "UTF-8"
+# Lao
+generate "lo" "libreoffice" \
+  "dictionaries-master/lo_LA/lo_LA.dic" "UTF-8" \
+  "dictionaries-master/lo_LA/lo_LA.aff" "UTF-8" \
+  "GPL-3.0" "dictionaries-master/lo_LA/README_lo_LA.txt" "UTF-8"
+# Marathi
+generate "mr" "libreoffice" \
+  "dictionaries-master/mr_IN/mr_IN.dic" "UTF-8" \
+  "dictionaries-master/mr_IN/mr_IN.aff" "UTF-8" \
+  "LGPL-3.0" "dictionaries-master/mr_IN/README_mr_IN.txt" "UTF-8"
+# Odia
+generate "or" "libreoffice" \
+  "dictionaries-master/or_IN/or_IN.dic" "UTF-8" \
+  "dictionaries-master/or_IN/or_IN.aff" "UTF-8" \
+  "GPL-2.0" "dictionaries-master/or_IN/COPYING" "UTF-8"
+# Punjabi
+generate "pa" "libreoffice" \
+  "dictionaries-master/pa_IN/pa_IN.dic" "UTF-8" \
+  "dictionaries-master/pa_IN/pa_IN.aff" "UTF-8" \
+  "GPL-2.0" "dictionaries-master/pa_IN/COPYING" "UTF-8"
+# Sanskrit
+generate "sa" "libreoffice" \
+  "dictionaries-master/sa_IN/sa_IN.dic" "UTF-8" \
+  "dictionaries-master/sa_IN/sa_IN.aff" "UTF-8" \
+  "GPL-3.0" "dictionaries-master/sa_IN/COPYING" "UTF-8"
+# Sinhala
+generate "si" "libreoffice" \
+  "dictionaries-master/si_LK/si_LK.dic" "UTF-8" \
+  "dictionaries-master/si_LK/si_LK.aff" "UTF-8" \
+  "GPL-3.0" "dictionaries-master/si_LK/COPYING" "UTF-8"
+# Albanian
+generate "sq" "libreoffice" \
+  "dictionaries-master/sq_AL/sq_AL.dic" "UTF-8" \
+  "dictionaries-master/sq_AL/sq_AL.aff" "UTF-8" \
+  "GPL-3.0" "dictionaries-master/sq_AL/README_sq_AL.txt" "UTF-8"
+# Swahili
+generate "sw" "libreoffice" \
+  "dictionaries-master/sw_TZ/sw_TZ.dic" "UTF-8" \
+  "dictionaries-master/sw_TZ/sw_TZ.aff" "UTF-8" \
+  "LGPL-3.0" "dictionaries-master/sw_TZ/README_sw_TZ.txt" "UTF-8"
+# Tamil
+generate "ta" "libreoffice" \
+  "dictionaries-master/ta_IN/ta_IN.dic" "UTF-8" \
+  "dictionaries-master/ta_IN/ta_IN.aff" "UTF-8" \
+  "GPL-3.0" "dictionaries-master/ta_IN/COPYING" "UTF-8"
+# Telugu
+generate "te" "libreoffice" \
+  "dictionaries-master/te_IN/te_IN.dic" "UTF-8" \
+  "dictionaries-master/te_IN/te_IN.aff" "UTF-8" \
+  "GPL-2.0" "dictionaries-master/te_IN/COPYING" "UTF-8"
+# Thai
+generate "th" "libreoffice" \
+  "dictionaries-master/th_TH/th_TH.dic" "UTF-8" \
+  "dictionaries-master/th_TH/th_TH.aff" "UTF-8" \
+  "LGPL-2.1" "dictionaries-master/th_TH/README_th_TH.txt" "UTF-8"
+# Note: zu (Zulu) removed - LibreOffice only has hyphenation, no spelling dictionary
+
 printf "$(bold "Generated")!\n\n"
