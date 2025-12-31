@@ -101,123 +101,481 @@
     }
   },
   "exports": {
-    "./af": "./dictionaries/af/index.js",
-    "./an": "./dictionaries/an/index.js",
-    "./ar": "./dictionaries/ar/index.js",
-    "./as": "./dictionaries/as/index.js",
-    "./be": "./dictionaries/be/index.js",
-    "./bg": "./dictionaries/bg/index.js",
-    "./bn": "./dictionaries/bn/index.js",
-    "./bo": "./dictionaries/bo/index.js",
-    "./br": "./dictionaries/br/index.js",
-    "./bs": "./dictionaries/bs/index.js",
-    "./ca": "./dictionaries/ca/index.js",
-    "./ca-valencia": "./dictionaries/ca-valencia/index.js",
-    "./ckb": "./dictionaries/ckb/index.js",
-    "./cs": "./dictionaries/cs/index.js",
-    "./cy": "./dictionaries/cy/index.js",
-    "./da": "./dictionaries/da/index.js",
-    "./de": "./dictionaries/de/index.js",
-    "./de-AT": "./dictionaries/de-AT/index.js",
-    "./de-CH": "./dictionaries/de-CH/index.js",
-    "./el": "./dictionaries/el/index.js",
-    "./el-polyton": "./dictionaries/el-polyton/index.js",
-    "./en": "./dictionaries/en/index.js",
-    "./en-AU": "./dictionaries/en-AU/index.js",
-    "./en-CA": "./dictionaries/en-CA/index.js",
-    "./en-GB": "./dictionaries/en-GB/index.js",
-    "./en-ZA": "./dictionaries/en-ZA/index.js",
-    "./eo": "./dictionaries/eo/index.js",
-    "./es": "./dictionaries/es/index.js",
-    "./es-AR": "./dictionaries/es-AR/index.js",
-    "./es-BO": "./dictionaries/es-BO/index.js",
-    "./es-CL": "./dictionaries/es-CL/index.js",
-    "./es-CO": "./dictionaries/es-CO/index.js",
-    "./es-CR": "./dictionaries/es-CR/index.js",
-    "./es-CU": "./dictionaries/es-CU/index.js",
-    "./es-DO": "./dictionaries/es-DO/index.js",
-    "./es-EC": "./dictionaries/es-EC/index.js",
-    "./es-GT": "./dictionaries/es-GT/index.js",
-    "./es-HN": "./dictionaries/es-HN/index.js",
-    "./es-MX": "./dictionaries/es-MX/index.js",
-    "./es-NI": "./dictionaries/es-NI/index.js",
-    "./es-PA": "./dictionaries/es-PA/index.js",
-    "./es-PE": "./dictionaries/es-PE/index.js",
-    "./es-PH": "./dictionaries/es-PH/index.js",
-    "./es-PR": "./dictionaries/es-PR/index.js",
-    "./es-PY": "./dictionaries/es-PY/index.js",
-    "./es-SV": "./dictionaries/es-SV/index.js",
-    "./es-US": "./dictionaries/es-US/index.js",
-    "./es-UY": "./dictionaries/es-UY/index.js",
-    "./es-VE": "./dictionaries/es-VE/index.js",
-    "./et": "./dictionaries/et/index.js",
-    "./eu": "./dictionaries/eu/index.js",
-    "./fa": "./dictionaries/fa/index.js",
-    "./fo": "./dictionaries/fo/index.js",
-    "./fr": "./dictionaries/fr/index.js",
-    "./fur": "./dictionaries/fur/index.js",
-    "./fy": "./dictionaries/fy/index.js",
-    "./ga": "./dictionaries/ga/index.js",
-    "./gd": "./dictionaries/gd/index.js",
-    "./gl": "./dictionaries/gl/index.js",
-    "./gu": "./dictionaries/gu/index.js",
-    "./gug": "./dictionaries/gug/index.js",
-    "./he": "./dictionaries/he/index.js",
-    "./hi": "./dictionaries/hi/index.js",
-    "./hr": "./dictionaries/hr/index.js",
-    "./hu": "./dictionaries/hu/index.js",
-    "./hy": "./dictionaries/hy/index.js",
-    "./hyw": "./dictionaries/hyw/index.js",
-    "./ia": "./dictionaries/ia/index.js",
-    "./id": "./dictionaries/id/index.js",
-    "./ie": "./dictionaries/ie/index.js",
-    "./is": "./dictionaries/is/index.js",
-    "./it": "./dictionaries/it/index.js",
-    "./ka": "./dictionaries/ka/index.js",
-    "./kmr-Latn": "./dictionaries/kmr-Latn/index.js",
-    "./kn": "./dictionaries/kn/index.js",
-    "./ko": "./dictionaries/ko/index.js",
-    "./la": "./dictionaries/la/index.js",
-    "./lb": "./dictionaries/lb/index.js",
-    "./lo": "./dictionaries/lo/index.js",
-    "./lt": "./dictionaries/lt/index.js",
-    "./ltg": "./dictionaries/ltg/index.js",
-    "./lv": "./dictionaries/lv/index.js",
-    "./mk": "./dictionaries/mk/index.js",
-    "./mn": "./dictionaries/mn/index.js",
-    "./mr": "./dictionaries/mr/index.js",
-    "./nb": "./dictionaries/nb/index.js",
-    "./nds": "./dictionaries/nds/index.js",
-    "./ne": "./dictionaries/ne/index.js",
-    "./nl": "./dictionaries/nl/index.js",
-    "./nn": "./dictionaries/nn/index.js",
-    "./oc": "./dictionaries/oc/index.js",
-    "./or": "./dictionaries/or/index.js",
-    "./pa": "./dictionaries/pa/index.js",
-    "./pl": "./dictionaries/pl/index.js",
-    "./pt": "./dictionaries/pt/index.js",
-    "./pt-PT": "./dictionaries/pt-PT/index.js",
-    "./ro": "./dictionaries/ro/index.js",
-    "./ru": "./dictionaries/ru/index.js",
-    "./rw": "./dictionaries/rw/index.js",
-    "./sa": "./dictionaries/sa/index.js",
-    "./si": "./dictionaries/si/index.js",
-    "./sk": "./dictionaries/sk/index.js",
-    "./sl": "./dictionaries/sl/index.js",
-    "./sq": "./dictionaries/sq/index.js",
-    "./sr": "./dictionaries/sr/index.js",
-    "./sr-Latn": "./dictionaries/sr-Latn/index.js",
-    "./sv": "./dictionaries/sv/index.js",
-    "./sv-FI": "./dictionaries/sv-FI/index.js",
-    "./sw": "./dictionaries/sw/index.js",
-    "./ta": "./dictionaries/ta/index.js",
-    "./te": "./dictionaries/te/index.js",
-    "./th": "./dictionaries/th/index.js",
-    "./tk": "./dictionaries/tk/index.js",
-    "./tlh": "./dictionaries/tlh/index.js",
-    "./tlh-Latn": "./dictionaries/tlh-Latn/index.js",
-    "./tr": "./dictionaries/tr/index.js",
-    "./uk": "./dictionaries/uk/index.js",
-    "./vi": "./dictionaries/vi/index.js"
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    },
+    "./af": {
+      "types": "./dictionaries/af/index.d.ts",
+      "default": "./dictionaries/af/index.js"
+    },
+    "./an": {
+      "types": "./dictionaries/an/index.d.ts",
+      "default": "./dictionaries/an/index.js"
+    },
+    "./ar": {
+      "types": "./dictionaries/ar/index.d.ts",
+      "default": "./dictionaries/ar/index.js"
+    },
+    "./as": {
+      "types": "./dictionaries/as/index.d.ts",
+      "default": "./dictionaries/as/index.js"
+    },
+    "./be": {
+      "types": "./dictionaries/be/index.d.ts",
+      "default": "./dictionaries/be/index.js"
+    },
+    "./bg": {
+      "types": "./dictionaries/bg/index.d.ts",
+      "default": "./dictionaries/bg/index.js"
+    },
+    "./bn": {
+      "types": "./dictionaries/bn/index.d.ts",
+      "default": "./dictionaries/bn/index.js"
+    },
+    "./bo": {
+      "types": "./dictionaries/bo/index.d.ts",
+      "default": "./dictionaries/bo/index.js"
+    },
+    "./br": {
+      "types": "./dictionaries/br/index.d.ts",
+      "default": "./dictionaries/br/index.js"
+    },
+    "./bs": {
+      "types": "./dictionaries/bs/index.d.ts",
+      "default": "./dictionaries/bs/index.js"
+    },
+    "./ca": {
+      "types": "./dictionaries/ca/index.d.ts",
+      "default": "./dictionaries/ca/index.js"
+    },
+    "./ca-valencia": {
+      "types": "./dictionaries/ca-valencia/index.d.ts",
+      "default": "./dictionaries/ca-valencia/index.js"
+    },
+    "./ckb": {
+      "types": "./dictionaries/ckb/index.d.ts",
+      "default": "./dictionaries/ckb/index.js"
+    },
+    "./cs": {
+      "types": "./dictionaries/cs/index.d.ts",
+      "default": "./dictionaries/cs/index.js"
+    },
+    "./cy": {
+      "types": "./dictionaries/cy/index.d.ts",
+      "default": "./dictionaries/cy/index.js"
+    },
+    "./da": {
+      "types": "./dictionaries/da/index.d.ts",
+      "default": "./dictionaries/da/index.js"
+    },
+    "./de": {
+      "types": "./dictionaries/de/index.d.ts",
+      "default": "./dictionaries/de/index.js"
+    },
+    "./de-AT": {
+      "types": "./dictionaries/de-AT/index.d.ts",
+      "default": "./dictionaries/de-AT/index.js"
+    },
+    "./de-CH": {
+      "types": "./dictionaries/de-CH/index.d.ts",
+      "default": "./dictionaries/de-CH/index.js"
+    },
+    "./el": {
+      "types": "./dictionaries/el/index.d.ts",
+      "default": "./dictionaries/el/index.js"
+    },
+    "./el-polyton": {
+      "types": "./dictionaries/el-polyton/index.d.ts",
+      "default": "./dictionaries/el-polyton/index.js"
+    },
+    "./en": {
+      "types": "./dictionaries/en/index.d.ts",
+      "default": "./dictionaries/en/index.js"
+    },
+    "./en-AU": {
+      "types": "./dictionaries/en-AU/index.d.ts",
+      "default": "./dictionaries/en-AU/index.js"
+    },
+    "./en-CA": {
+      "types": "./dictionaries/en-CA/index.d.ts",
+      "default": "./dictionaries/en-CA/index.js"
+    },
+    "./en-GB": {
+      "types": "./dictionaries/en-GB/index.d.ts",
+      "default": "./dictionaries/en-GB/index.js"
+    },
+    "./en-ZA": {
+      "types": "./dictionaries/en-ZA/index.d.ts",
+      "default": "./dictionaries/en-ZA/index.js"
+    },
+    "./eo": {
+      "types": "./dictionaries/eo/index.d.ts",
+      "default": "./dictionaries/eo/index.js"
+    },
+    "./es": {
+      "types": "./dictionaries/es/index.d.ts",
+      "default": "./dictionaries/es/index.js"
+    },
+    "./es-AR": {
+      "types": "./dictionaries/es-AR/index.d.ts",
+      "default": "./dictionaries/es-AR/index.js"
+    },
+    "./es-BO": {
+      "types": "./dictionaries/es-BO/index.d.ts",
+      "default": "./dictionaries/es-BO/index.js"
+    },
+    "./es-CL": {
+      "types": "./dictionaries/es-CL/index.d.ts",
+      "default": "./dictionaries/es-CL/index.js"
+    },
+    "./es-CO": {
+      "types": "./dictionaries/es-CO/index.d.ts",
+      "default": "./dictionaries/es-CO/index.js"
+    },
+    "./es-CR": {
+      "types": "./dictionaries/es-CR/index.d.ts",
+      "default": "./dictionaries/es-CR/index.js"
+    },
+    "./es-CU": {
+      "types": "./dictionaries/es-CU/index.d.ts",
+      "default": "./dictionaries/es-CU/index.js"
+    },
+    "./es-DO": {
+      "types": "./dictionaries/es-DO/index.d.ts",
+      "default": "./dictionaries/es-DO/index.js"
+    },
+    "./es-EC": {
+      "types": "./dictionaries/es-EC/index.d.ts",
+      "default": "./dictionaries/es-EC/index.js"
+    },
+    "./es-GT": {
+      "types": "./dictionaries/es-GT/index.d.ts",
+      "default": "./dictionaries/es-GT/index.js"
+    },
+    "./es-HN": {
+      "types": "./dictionaries/es-HN/index.d.ts",
+      "default": "./dictionaries/es-HN/index.js"
+    },
+    "./es-MX": {
+      "types": "./dictionaries/es-MX/index.d.ts",
+      "default": "./dictionaries/es-MX/index.js"
+    },
+    "./es-NI": {
+      "types": "./dictionaries/es-NI/index.d.ts",
+      "default": "./dictionaries/es-NI/index.js"
+    },
+    "./es-PA": {
+      "types": "./dictionaries/es-PA/index.d.ts",
+      "default": "./dictionaries/es-PA/index.js"
+    },
+    "./es-PE": {
+      "types": "./dictionaries/es-PE/index.d.ts",
+      "default": "./dictionaries/es-PE/index.js"
+    },
+    "./es-PH": {
+      "types": "./dictionaries/es-PH/index.d.ts",
+      "default": "./dictionaries/es-PH/index.js"
+    },
+    "./es-PR": {
+      "types": "./dictionaries/es-PR/index.d.ts",
+      "default": "./dictionaries/es-PR/index.js"
+    },
+    "./es-PY": {
+      "types": "./dictionaries/es-PY/index.d.ts",
+      "default": "./dictionaries/es-PY/index.js"
+    },
+    "./es-SV": {
+      "types": "./dictionaries/es-SV/index.d.ts",
+      "default": "./dictionaries/es-SV/index.js"
+    },
+    "./es-US": {
+      "types": "./dictionaries/es-US/index.d.ts",
+      "default": "./dictionaries/es-US/index.js"
+    },
+    "./es-UY": {
+      "types": "./dictionaries/es-UY/index.d.ts",
+      "default": "./dictionaries/es-UY/index.js"
+    },
+    "./es-VE": {
+      "types": "./dictionaries/es-VE/index.d.ts",
+      "default": "./dictionaries/es-VE/index.js"
+    },
+    "./et": {
+      "types": "./dictionaries/et/index.d.ts",
+      "default": "./dictionaries/et/index.js"
+    },
+    "./eu": {
+      "types": "./dictionaries/eu/index.d.ts",
+      "default": "./dictionaries/eu/index.js"
+    },
+    "./fa": {
+      "types": "./dictionaries/fa/index.d.ts",
+      "default": "./dictionaries/fa/index.js"
+    },
+    "./fo": {
+      "types": "./dictionaries/fo/index.d.ts",
+      "default": "./dictionaries/fo/index.js"
+    },
+    "./fr": {
+      "types": "./dictionaries/fr/index.d.ts",
+      "default": "./dictionaries/fr/index.js"
+    },
+    "./fur": {
+      "types": "./dictionaries/fur/index.d.ts",
+      "default": "./dictionaries/fur/index.js"
+    },
+    "./fy": {
+      "types": "./dictionaries/fy/index.d.ts",
+      "default": "./dictionaries/fy/index.js"
+    },
+    "./ga": {
+      "types": "./dictionaries/ga/index.d.ts",
+      "default": "./dictionaries/ga/index.js"
+    },
+    "./gd": {
+      "types": "./dictionaries/gd/index.d.ts",
+      "default": "./dictionaries/gd/index.js"
+    },
+    "./gl": {
+      "types": "./dictionaries/gl/index.d.ts",
+      "default": "./dictionaries/gl/index.js"
+    },
+    "./gu": {
+      "types": "./dictionaries/gu/index.d.ts",
+      "default": "./dictionaries/gu/index.js"
+    },
+    "./gug": {
+      "types": "./dictionaries/gug/index.d.ts",
+      "default": "./dictionaries/gug/index.js"
+    },
+    "./he": {
+      "types": "./dictionaries/he/index.d.ts",
+      "default": "./dictionaries/he/index.js"
+    },
+    "./hi": {
+      "types": "./dictionaries/hi/index.d.ts",
+      "default": "./dictionaries/hi/index.js"
+    },
+    "./hr": {
+      "types": "./dictionaries/hr/index.d.ts",
+      "default": "./dictionaries/hr/index.js"
+    },
+    "./hu": {
+      "types": "./dictionaries/hu/index.d.ts",
+      "default": "./dictionaries/hu/index.js"
+    },
+    "./hy": {
+      "types": "./dictionaries/hy/index.d.ts",
+      "default": "./dictionaries/hy/index.js"
+    },
+    "./hyw": {
+      "types": "./dictionaries/hyw/index.d.ts",
+      "default": "./dictionaries/hyw/index.js"
+    },
+    "./ia": {
+      "types": "./dictionaries/ia/index.d.ts",
+      "default": "./dictionaries/ia/index.js"
+    },
+    "./id": {
+      "types": "./dictionaries/id/index.d.ts",
+      "default": "./dictionaries/id/index.js"
+    },
+    "./ie": {
+      "types": "./dictionaries/ie/index.d.ts",
+      "default": "./dictionaries/ie/index.js"
+    },
+    "./is": {
+      "types": "./dictionaries/is/index.d.ts",
+      "default": "./dictionaries/is/index.js"
+    },
+    "./it": {
+      "types": "./dictionaries/it/index.d.ts",
+      "default": "./dictionaries/it/index.js"
+    },
+    "./ka": {
+      "types": "./dictionaries/ka/index.d.ts",
+      "default": "./dictionaries/ka/index.js"
+    },
+    "./kmr-Latn": {
+      "types": "./dictionaries/kmr-Latn/index.d.ts",
+      "default": "./dictionaries/kmr-Latn/index.js"
+    },
+    "./kn": {
+      "types": "./dictionaries/kn/index.d.ts",
+      "default": "./dictionaries/kn/index.js"
+    },
+    "./ko": {
+      "types": "./dictionaries/ko/index.d.ts",
+      "default": "./dictionaries/ko/index.js"
+    },
+    "./la": {
+      "types": "./dictionaries/la/index.d.ts",
+      "default": "./dictionaries/la/index.js"
+    },
+    "./lb": {
+      "types": "./dictionaries/lb/index.d.ts",
+      "default": "./dictionaries/lb/index.js"
+    },
+    "./lo": {
+      "types": "./dictionaries/lo/index.d.ts",
+      "default": "./dictionaries/lo/index.js"
+    },
+    "./lt": {
+      "types": "./dictionaries/lt/index.d.ts",
+      "default": "./dictionaries/lt/index.js"
+    },
+    "./ltg": {
+      "types": "./dictionaries/ltg/index.d.ts",
+      "default": "./dictionaries/ltg/index.js"
+    },
+    "./lv": {
+      "types": "./dictionaries/lv/index.d.ts",
+      "default": "./dictionaries/lv/index.js"
+    },
+    "./mk": {
+      "types": "./dictionaries/mk/index.d.ts",
+      "default": "./dictionaries/mk/index.js"
+    },
+    "./mn": {
+      "types": "./dictionaries/mn/index.d.ts",
+      "default": "./dictionaries/mn/index.js"
+    },
+    "./mr": {
+      "types": "./dictionaries/mr/index.d.ts",
+      "default": "./dictionaries/mr/index.js"
+    },
+    "./nb": {
+      "types": "./dictionaries/nb/index.d.ts",
+      "default": "./dictionaries/nb/index.js"
+    },
+    "./nds": {
+      "types": "./dictionaries/nds/index.d.ts",
+      "default": "./dictionaries/nds/index.js"
+    },
+    "./ne": {
+      "types": "./dictionaries/ne/index.d.ts",
+      "default": "./dictionaries/ne/index.js"
+    },
+    "./nl": {
+      "types": "./dictionaries/nl/index.d.ts",
+      "default": "./dictionaries/nl/index.js"
+    },
+    "./nn": {
+      "types": "./dictionaries/nn/index.d.ts",
+      "default": "./dictionaries/nn/index.js"
+    },
+    "./oc": {
+      "types": "./dictionaries/oc/index.d.ts",
+      "default": "./dictionaries/oc/index.js"
+    },
+    "./or": {
+      "types": "./dictionaries/or/index.d.ts",
+      "default": "./dictionaries/or/index.js"
+    },
+    "./pa": {
+      "types": "./dictionaries/pa/index.d.ts",
+      "default": "./dictionaries/pa/index.js"
+    },
+    "./pl": {
+      "types": "./dictionaries/pl/index.d.ts",
+      "default": "./dictionaries/pl/index.js"
+    },
+    "./pt": {
+      "types": "./dictionaries/pt/index.d.ts",
+      "default": "./dictionaries/pt/index.js"
+    },
+    "./pt-PT": {
+      "types": "./dictionaries/pt-PT/index.d.ts",
+      "default": "./dictionaries/pt-PT/index.js"
+    },
+    "./ro": {
+      "types": "./dictionaries/ro/index.d.ts",
+      "default": "./dictionaries/ro/index.js"
+    },
+    "./ru": {
+      "types": "./dictionaries/ru/index.d.ts",
+      "default": "./dictionaries/ru/index.js"
+    },
+    "./rw": {
+      "types": "./dictionaries/rw/index.d.ts",
+      "default": "./dictionaries/rw/index.js"
+    },
+    "./sa": {
+      "types": "./dictionaries/sa/index.d.ts",
+      "default": "./dictionaries/sa/index.js"
+    },
+    "./si": {
+      "types": "./dictionaries/si/index.d.ts",
+      "default": "./dictionaries/si/index.js"
+    },
+    "./sk": {
+      "types": "./dictionaries/sk/index.d.ts",
+      "default": "./dictionaries/sk/index.js"
+    },
+    "./sl": {
+      "types": "./dictionaries/sl/index.d.ts",
+      "default": "./dictionaries/sl/index.js"
+    },
+    "./sq": {
+      "types": "./dictionaries/sq/index.d.ts",
+      "default": "./dictionaries/sq/index.js"
+    },
+    "./sr": {
+      "types": "./dictionaries/sr/index.d.ts",
+      "default": "./dictionaries/sr/index.js"
+    },
+    "./sr-Latn": {
+      "types": "./dictionaries/sr-Latn/index.d.ts",
+      "default": "./dictionaries/sr-Latn/index.js"
+    },
+    "./sv": {
+      "types": "./dictionaries/sv/index.d.ts",
+      "default": "./dictionaries/sv/index.js"
+    },
+    "./sv-FI": {
+      "types": "./dictionaries/sv-FI/index.d.ts",
+      "default": "./dictionaries/sv-FI/index.js"
+    },
+    "./sw": {
+      "types": "./dictionaries/sw/index.d.ts",
+      "default": "./dictionaries/sw/index.js"
+    },
+    "./ta": {
+      "types": "./dictionaries/ta/index.d.ts",
+      "default": "./dictionaries/ta/index.js"
+    },
+    "./te": {
+      "types": "./dictionaries/te/index.d.ts",
+      "default": "./dictionaries/te/index.js"
+    },
+    "./th": {
+      "types": "./dictionaries/th/index.d.ts",
+      "default": "./dictionaries/th/index.js"
+    },
+    "./tk": {
+      "types": "./dictionaries/tk/index.d.ts",
+      "default": "./dictionaries/tk/index.js"
+    },
+    "./tlh": {
+      "types": "./dictionaries/tlh/index.d.ts",
+      "default": "./dictionaries/tlh/index.js"
+    },
+    "./tlh-Latn": {
+      "types": "./dictionaries/tlh-Latn/index.d.ts",
+      "default": "./dictionaries/tlh-Latn/index.js"
+    },
+    "./tr": {
+      "types": "./dictionaries/tr/index.d.ts",
+      "default": "./dictionaries/tr/index.js"
+    },
+    "./uk": {
+      "types": "./dictionaries/uk/index.d.ts",
+      "default": "./dictionaries/uk/index.js"
+    },
+    "./vi": {
+      "types": "./dictionaries/vi/index.d.ts",
+      "default": "./dictionaries/vi/index.js"
+    }
   }
 }
