@@ -22,6 +22,7 @@
     "Vandrite <contact@vandrite.com> (https://vandrite.com)"
   ],
   "type": "module",
+  "readme": "README.md",
   "devDependencies": {
     "@types/leb128": "^0.0.0",
     "@types/node": "^20.0.0",
