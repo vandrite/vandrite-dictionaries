@@ -23,6 +23,15 @@
   ],
   "type": "module",
   "readme": "README.md",
+  "files": [
+    "dictionaries/**/*.js",
+    "dictionaries/**/*.d.ts",
+    "dictionaries/**/*.d.ts.map",
+    "dictionaries/**/*.aff",
+    "dictionaries/**/*.dic",
+    "dictionaries/**/license",
+    "dictionaries/**/readme.md"
+  ],
   "devDependencies": {
     "@types/leb128": "^0.0.0",
     "@types/node": "^20.0.0",
